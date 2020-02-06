@@ -9,4 +9,4 @@ Esta pasta contém a API necessária para rodar o projeto. Para subir a API, ent
 
 `/client`
 
-Esta pasta contém o projeto fron-end, necessário instalar as dependêcias com `npm install` e depois `npm start` ou `yarn install` e `yarn start`.
+Esta pasta contém o projeto front-end, necessário instalar as dependêcias com `npm install` e depois `npm start` ou `yarn install` e `yarn start`.
