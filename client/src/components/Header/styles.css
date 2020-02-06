@@ -1,0 +1,14 @@
+header#main-header {
+    height: 80px;
+    color: #FFF;
+    font-size: 20px;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+header#main-header h1 {
+    margin-left: 15px;
+}
